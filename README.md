@@ -13,3 +13,8 @@ I wish to collect the career stats of top picks from the past 20 NBA drafts. I w
 *** In this analysis, "Drafting teams" includes teams that trade for a pick. Drafting teams are teams that a rookie plays for for the entire season. Therefore, teams that trade or receive picks midway through the season will not be counted in this analysis.
 
 ### Here are some of the plots and realizations from the 7 analysis questions:
+
+
+
+### Libraries Involved:
+Requests, Beautiful Soup, NumPy, SciPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn
