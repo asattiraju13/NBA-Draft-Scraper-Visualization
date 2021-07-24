@@ -44,7 +44,7 @@ This plot of Linear Discriminant Analysis with respect to the three position gro
 ![scatterplots](https://github.com/asattiraju13/NBA-Draft-Scraper-Visualization/blob/main/plots/scatterplots.png)
 
    
-These two graphs above both show that there is a negative correlation both for average career win shares vs pick number and average career box plus minus vs pick number. The correlation coefficient for both graphs is roughly $\sqrt{0.55}$ = 0.74, which illustrates a moderate correlation as supported by the graphs. One would expect these relationships, as lower pick numbers are typically the better players and will have more success during their entire career. Let's look more closely at the ranges of win shares and Box Plus-Minus vs pick number below using boxplots in Seaborn.
+These two graphs above both show that there is a negative correlation both for average career win shares vs pick number and average career box plus minus vs pick number. The correlation coefficient for both graphs is roughly sqrt(0.55) = 0.74, which illustrates a moderate correlation as supported by the graphs. One would expect these relationships, as lower pick numbers are typically the better players and will have more success during their entire career. Let's look more closely at the ranges of win shares and Box Plus-Minus vs pick number below using boxplots in Seaborn.
    
 ![boxplots](https://github.com/asattiraju13/NBA-Draft-Scraper-Visualization/blob/main/plots/boxplots.png)
     
